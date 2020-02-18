@@ -1,4 +1,4 @@
-class KubePrompt < Formula
+class GHPrompt < Formula
   desc "An interactive GitHub CLI featuring auto-complete."
   homepage "https://github.com/c-bata/gh-prompt"
   url "https://github.com/c-bata/gh-prompt/releases/download/v0.0.1/gh-prompt_darwin_x86_64.zip"
